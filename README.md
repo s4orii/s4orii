@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Active Directory and Pwn!**
 
-- 📫 How to reach me **@s4orii**
+- 📫 How to reach me **@s4orii** or @s4oriwi on discord!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
