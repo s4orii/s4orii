@@ -55,12 +55,6 @@ complex attack paths, chained vulnerabilities, unusual privilege escalation,
 identity abuse, architecture weaknesses and adversarial testing of modern systems.
 </p>
 
-<blockquote>
-<strong>
-My goal is to become the professional teams call when the obvious solutions are already exhausted.
-</strong>
-</blockquote>
-
 <p>
 I approach security as a technical wildcard:
 <strong>understand fast, adapt, investigate deeply and find a path forward.</strong>
