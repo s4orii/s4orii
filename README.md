@@ -1,17 +1,596 @@
-  <h1 align="center">Hi 👋, I'm Sebastián!</h1>
-<h3 align="center">A passionated Offensive Security student and trying being professional (xD)</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s4orii&label=Profile%20views&color=0e75b6&style=flat" alt="s4orii" /> </p>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6B0000,50:B30000,100:FF2A2A&text=Sebastián%20Muñoz&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Offensive%20Security%20Tech%20Lead%20%7C%20Red%20Team%20%7C%20AI%20Security&descAlignY=58&descSize=18"
+/>
 
-- 🌱 I’m currently learning **Active Directory and Pwn!**
+</div>
 
-- 📫 How to reach me **@s4orii** or **@s4oriwi** on discord!
+<h3>Offensive Security · Red Team · Application Security · AI Security</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/s4orii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s4orii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deaf" height="30" width="40" /></a>
+<p>
+Security professional focused on complex offensive security problems,
+adversarial thinking and deep technical research.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p>
+<img src="https://img.shields.io/badge/OSCP%2B-Certified-C8102E?style=flat-square" />
+<img src="https://img.shields.io/badge/Role-Offensive%20Security%20Tech%20Lead-8B0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Red%20Team-D00000?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Security-FF3030?style=flat-square" />
+<img src="https://img.shields.io/badge/Chile-🇨🇱-333333?style=flat-square" />
+</p>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="62%" valign="top">
+
+<h2>About Me</h2>
+
+<p>
+I'm <strong>Sebastián Muñoz</strong>, an Offensive Security professional currently working as an
+<strong>Offensive Security Tech Lead</strong>.
+</p>
+
+<p>
+My work and interests sit at the intersection of
+<strong>Red Teaming</strong>,
+<strong>Application Security</strong>,
+<strong>Active Directory</strong>,
+<strong>Cloud Security</strong>,
+<strong>Mobile Security</strong>
+and the emerging field of
+<strong>AI Security</strong>.
+</p>
+
+<p>
+I enjoy technical problems where standard procedures stop being useful:
+complex attack paths, chained vulnerabilities, unusual privilege escalation,
+identity abuse, architecture weaknesses and adversarial testing of modern systems.
+</p>
+
+<blockquote>
+<strong>
+My goal is to become the professional teams call when the obvious solutions are already exhausted.
+</strong>
+</blockquote>
+
+<p>
+I approach security as a technical wildcard:
+<strong>understand fast, adapt, investigate deeply and find a path forward.</strong>
+</p>
+
+</td>
+
+<td width="38%" valign="top">
+
+<h2>Profile</h2>
+
+<table>
+<tr>
+<td><strong>Current Role</strong></td>
+<td>Offensive Security Tech Lead</td>
+</tr>
+
+<tr>
+<td><strong>Main Focus</strong></td>
+<td>Red Team</td>
+</tr>
+
+<tr>
+<td><strong>Secondary Focus</strong></td>
+<td>AI Security</td>
+</tr>
+
+<tr>
+<td><strong>Certification</strong></td>
+<td>OSCP+</td>
+</tr>
+
+<tr>
+<td><strong>Education</strong></td>
+<td>Cybersecurity Engineering</td>
+</tr>
+
+<tr>
+<td><strong>Mindset</strong></td>
+<td>Analytical · Autonomous · Adaptable</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<h2>Professional Focus</h2>
+
+<img src="https://img.shields.io/badge/RED%20TEAM-ADVERSARY%20SIMULATION-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APPSEC-WEB%20%26%20API-C8102E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20SECURITY-LLM%20%26%20AGENTS-D00000?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY-OFFENSIVE%20SECURITY-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CLOUD-OFFENSIVE%20SECURITY-C8102E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MOBILE-SECURITY-D00000?style=for-the-badge" />
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Red Team</h3>
+
+<p>
+• Active Directory<br>
+• Attack Path Analysis<br>
+• Credential Abuse<br>
+• Kerberos Attacks<br>
+• ACL Abuse<br>
+• Lateral Movement<br>
+• Privilege Escalation<br>
+• Post-Exploitation<br>
+• Network Pivoting<br>
+• Adversary Simulation
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Application Security</h3>
+
+<p>
+• Web Pentesting<br>
+• API Security<br>
+• Authentication<br>
+• Authorization<br>
+• Business Logic<br>
+• Vulnerability Validation<br>
+• Exploitation<br>
+• Mobile Security<br>
+• Android Security<br>
+• Security Reporting
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">AI Security</h3>
+
+<p>
+• LLM Security<br>
+• Prompt Injection<br>
+• AI Application Testing<br>
+• Agent Security<br>
+• Tool Abuse<br>
+• Permission Boundaries<br>
+• Autonomous Agents<br>
+• Offensive AI Research<br>
+• AI-assisted Security
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+<h2>Experience</h2>
+
+</div>
+
+<table>
+
+<tr>
+<td width="22%">
+<strong>2026 — Present</strong>
+</td>
+
+<td>
+<strong>Offensive Security Tech Lead</strong><br>
+Hackmetrix
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>2023 — 2026</strong>
+</td>
+
+<td>
+<strong>Pentester</strong><br>
+NIVEL4
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>2023</strong>
+</td>
+
+<td>
+<strong>AppSec Engineer</strong><br>
+Hackmetrix
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>2023</strong>
+</td>
+
+<td>
+<strong>Junior Pentester</strong><br>
+Hackmetrix
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>2022 — 2023</strong>
+</td>
+
+<td>
+<strong>Hackmetrix Academy</strong>
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+<h2>Offensive Security Toolkit</h2>
+
+<p>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/BloodHound-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Impacket-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/NetExec-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/Responder-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kerbrute-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nmap-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Metasploit-C8102E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white"/>
+
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h2>Languages & Technologies</h2>
+
+<h3>Programming & Scripting</h3>
+
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,c,go,java,php,ruby,dart" />
+
+<br><br>
+
+<h3>Infrastructure & Cloud</h3>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,gcp" />
+
+<br><br>
+
+<h3>Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+
+<br><br>
+
+<h3>Development & DevOps</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,grafana,flutter,androidstudio" />
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>Active Directory</h2>
+
+<p>
+A major area of technical interest is the analysis and exploitation of
+complex Active Directory environments.
+</p>
+
+<p>
+• BloodHound attack paths<br>
+• DCSync<br>
+• Shadow Credentials<br>
+• ACL / DACL abuse<br>
+• Kerberos<br>
+• Credential attacks<br>
+• Delegation abuse<br>
+• Privilege escalation<br>
+• WinRM<br>
+• Lateral movement
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>Cloud & Infrastructure</h2>
+
+<p>
+Offensive assessment and security analysis across modern infrastructure.
+</p>
+
+<p>
+• AWS<br>
+• Azure<br>
+• GCP<br>
+• Kubernetes<br>
+• Docker<br>
+• Network segmentation<br>
+• External exposure<br>
+• IAM review<br>
+• Security configuration analysis<br>
+• Attack surface assessment
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>Mobile Security</h2>
+
+<p>
+Security testing and analysis of mobile applications and their supporting infrastructure.
+</p>
+
+<p>
+• Android Security<br>
+• SSL Pinning<br>
+• Root Detection<br>
+• Runtime Testing<br>
+• API Analysis<br>
+• Flutter / Dart Applications<br>
+• Traffic Interception<br>
+• Application Logic Testing
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>AI Security</h2>
+
+<p>
+I'm increasingly focused on the security implications of AI-enabled systems and autonomous agents.
+</p>
+
+<p>
+• LLM Applications<br>
+• Prompt Injection<br>
+• Agent Permissions<br>
+• Tool Invocation Security<br>
+• AI Application Attack Surface<br>
+• Autonomous Security Agents<br>
+• AI-assisted Offensive Security<br>
+• Adversarial Testing
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+<h2>Certifications</h2>
+
+<br>
+
+<img src="https://img.shields.io/badge/OSCP%2B-Offensive%20Security-C8102E?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CRTA-Certified%20Red%20Team%20Analyst-8B0000?style=flat-square" />
+<img src="https://img.shields.io/badge/MCRTA-Multi--Cloud%20Red%20Team%20Analyst-C8102E?style=flat-square" />
+<img src="https://img.shields.io/badge/eWPTXv3-Web%20Pentesting-D00000?style=flat-square" />
+
+<br>
+
+<img src="https://img.shields.io/badge/eCPPTv2-Penetration%20Testing-8B0000?style=flat-square" />
+<img src="https://img.shields.io/badge/eJPTv1-Junior%20Penetration%20Tester-C8102E?style=flat-square" />
+<img src="https://img.shields.io/badge/CMPen-Certified%20Mobile%20Pentester-D00000?style=flat-square" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h2>How I Work</h2>
+
+</div>
+
+<table>
+
+<tr>
+
+<td align="center" width="20%">
+<h3>Analytical</h3>
+<p>
+Break complex systems into understandable components.
+</p>
+</td>
+
+<td align="center" width="20%">
+<h3>Autonomous</h3>
+<p>
+Research and move forward without requiring constant direction.
+</p>
+</td>
+
+<td align="center" width="20%">
+<h3>Efficient</h3>
+<p>
+Focus effort where it produces meaningful technical impact.
+</p>
+</td>
+
+<td align="center" width="20%">
+<h3>Responsible</h3>
+<p>
+Understand the impact and responsibility behind offensive security work.
+</p>
+</td>
+
+<td align="center" width="20%">
+<h3>Adaptable</h3>
+<p>
+Move between technologies, systems and attack surfaces quickly.
+</p>
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+<h2>Education</h2>
+
+<h3>Cybersecurity Engineering</h3>
+
+<p>
+<strong>AIEP</strong><br>
+2025 — 2028
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h2>Current Direction</h2>
+
+<p>
+My long-term focus is the intersection between
+<strong>advanced offensive security</strong> and
+<strong>artificial intelligence</strong>.
+</p>
+
+<p>
+I'm particularly interested in environments where
+Red Teaming, AI systems, automation and complex infrastructure converge.
+</p>
+
+<blockquote>
+<strong>
+Find what others missed.<br>
+Understand why it works.<br>
+Turn complexity into a path forward.
+</strong>
+</blockquote>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h2>Connect</h2>
+
+<a href="https://twitter.com/s4orii">
+<img src="https://img.shields.io/badge/X-@s4orii-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/deaf">
+<img src="https://img.shields.io/badge/LinkedIn-Sebastián%20Muñoz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<p>
+<strong>Discord</strong><br>
+@s4orii · @s4oriwi
+</p>
+
+</div>
+
+<br>
+
+<hr>
+
+<div align="center">
+
+<h3>
+Breaking systems to understand them.<br>
+Understanding systems to secure them.
+</h3>
+
+<p>
+<em>
+Offensive Security · Red Team · AI Security
+</em>
+</p>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=8B0000,D00000,FF3030"
+/>
+
+</div>
